@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,SACE,QAAS,CACT,YAAa,CACb,sCAAyC,CACzC,gBAAiB","file":"main.f375f7cd.chunk.css","sourcesContent":[".Article {\n  margin: 0;\n  padding: 24px;\n  font-family: Arial, Helvetica, sans-serif;\n  line-height: 150%;\n}\n"]}
